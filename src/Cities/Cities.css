@@ -1,0 +1,9 @@
+.Cities > select {
+  font-size: 1.3rem;
+  width: 20vw;
+}
+.Cities > select option {
+  font-size: 1.3rem;
+}
+
+/*# sourceMappingURL=Cities.css.map */

@@ -1,0 +1,15 @@
+.Product {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-between;
+  width: 20vw;
+  border: 3px solid crimson;
+  margin: 1vh 0;
+}
+.Product span {
+  font-size: 2rem;
+  margin: 0.2em 1em;
+}
+
+/*# sourceMappingURL=Product.css.map */

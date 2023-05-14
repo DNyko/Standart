@@ -1,0 +1,24 @@
+#root {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#root table:nth-child(1) {
+  border: 2px solid black;
+  width: 20vw;
+}
+#root table:nth-child(1) tr {
+  border: 2px solid black;
+}
+#root table:nth-child(1) tr td {
+  font-size: 2rem;
+  border: 2px solid black;
+}
+#root table:nth-child(1) tr td:nth-child(1) {
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=index.css.map */
